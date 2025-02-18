@@ -1,10 +1,10 @@
 const images = [
-    "/IMAGENES/Izuku-Midoriya-Transparent.png",
-    "/IMAGENES/Kachan.png",
-    "/IMAGENES/Shoto.png",
-    "/IMAGENES/lida.png",
-    "/IMAGENES/Tokoyami.png",
-    "/IMAGENES/Uraraka.png"
+    "IMAGENES/Izuku-Midoriya-Transparent.png",
+    "IMAGENES/Kachan.png",
+    "IMAGENES/Shoto.png",
+    "IMAGENES/lida.png",
+    "IMAGENES/Tokoyami.png",
+    "IMAGENES/Uraraka.png"
 ];
 
 let currentIndex = 0;
