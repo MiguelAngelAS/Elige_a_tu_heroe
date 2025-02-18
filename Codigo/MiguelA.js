@@ -1,4 +1,12 @@
-const images = ["Izuku-Midoriya-Transparent.png", "Kachan.png", "Shoto.png", "lida.png", "Tokoyami.png", "Uraraka.png"];
+const images = [
+    "../imagenes/Izuku-Midoriya-Transparent.png",
+    "../imagenes/Kachan.png",
+    "../imagenes/Shoto.png",
+    "../imagenes/lida.png",
+    "../imagenes/Tokoyami.png",
+    "../imagenes/Uraraka.png"
+];
+
 let currentIndex = 0;
 
 const imageDisplay = document.getElementById("imageDisplay");
